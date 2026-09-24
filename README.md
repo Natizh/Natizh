@@ -33,7 +33,7 @@ I defined the product, behaviour, requirements, interaction model, UX and testin
 
 More than a coding exercise, it became an experiment in how software can be built when implementation is no longer the only difficult part.
 
-### [InCampus](https://github.com/InCampus-dev/inCampus-documentation-wiki)
+### [InCampus](https://github.com/InCampus-dev/InCampusApp)
 
 A Software Engineering project developed with a four-person team at Tongji University, starting from an idea that came up living the campus life in China.
 
